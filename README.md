@@ -2,7 +2,7 @@
 
 Gift commands for the free AVO Play live game **ตำโมจิ** (mochi pounding).
 
-**Page:** https://aotgtr.github.io/mochi-commands/
+**Page:** https://command-by-avo.github.io/mochi-commands/
 
 Each command is a word with an optional number (`order 1`, `help 45`, `speed 30`, `random order 1 25`, `random help 10 60`). Copy it into a gift rule in AVO Play.
 
